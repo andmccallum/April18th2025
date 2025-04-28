@@ -1,0 +1,56 @@
+Pi0System Astrophysical Analysis Report: OGLE-2011-BLG-0462
+=======================================================
+Generated: 20250418_174057
+
+Event Overview
+-------------
+Event Name: OGLE-2011-BLG-0462
+Type: Galactic-bulge microlensing
+Duration: ~6 years
+Number of Observations: 8
+Key Feature: relativistic astrometric deflections
+Instrument: Hubble Space Telescope (HST)
+
+Technical Analysis
+----------------
+1. Microlensing Parameters
+- Event characterized by relativistic astrometric deflections
+- Observations span approximately 6 years
+- Multiple epoch HST measurements provide high-precision astrometry
+
+2. Physical Implications
+- Presence of relativistic deflections indicates significant mass concentration
+- Long duration suggests high mass and/or specific geometric configuration
+- HST's precision enables detection of subtle astrometric shifts
+
+3. Observational Strategy
+- Eight epochs of HST observations
+- Extended temporal baseline (~6 years)
+- High-precision astrometric measurements
+
+4. Significance
+- One of the rare cases where relativistic deflections are directly measured
+- Provides constraints on the mass and distance of the lensing object
+- Demonstrates capability of HST for precise astrometric microlensing
+
+Mathematical Framework
+-------------------
+Einstein Radius (θE):
+θE = √((4GM/c²) * (DS-DL)/(DL*DS))
+
+where:
+G = Gravitational constant
+M = Mass of the lensing object
+c = Speed of light
+DL = Distance to lens
+DS = Distance to source
+
+Recommendations for Further Analysis
+--------------------------------
+1. Detailed modeling of the astrometric deflection curve
+2. Cross-correlation with other galactic bulge surveys
+3. Investigation of possible binary lens scenarios
+4. Analysis of the source star properties
+5. Consideration of alternative mass models
+
+This analysis was conducted by Pi0System's GPi0n module under Pi0n direction.

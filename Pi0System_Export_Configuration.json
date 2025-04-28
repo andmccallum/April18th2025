@@ -1,0 +1,33 @@
+{
+  "export_frequency": "hourly",
+  "verification_frequency": "daily",
+  "backup_frequency": "weekly",
+  "repositories": {
+    "pi0_core": {
+      "path": "/pi0_core",
+      "type": "system"
+    },
+    "pi0_threads": {
+      "path": "/pi0_threads",
+      "type": "content"
+    },
+    "pi0_mathematical": {
+      "path": "/pi0_mathematical",
+      "type": "operators"
+    }
+  },
+  "automated_agents": {
+    "epi_agents": {
+      "status": "active",
+      "task": "export"
+    },
+    "epi0n": {
+      "status": "active",
+      "task": "monitor"
+    },
+    "egPI0n": {
+      "status": "active",
+      "task": "verify"
+    }
+  }
+}

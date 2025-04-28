@@ -1,0 +1,78 @@
+GITEA IMPORT INSTRUCTIONS
+========================
+Repository: git@gitea.com:pi0system/All-files-private.git
+Total Files: 5,742
+Start Date: March 1st, 2025
+
+STEP-BY-STEP INSTRUCTIONS
+------------------------
+1. Initial Setup
+   ```bash
+   # Create a new directory for the repository
+   mkdir pi0system_files
+   cd pi0system_files
+   
+   # Initialize git
+   git init
+   
+   # Add Gitea remote
+   git remote add origin git@gitea.com:pi0system/All-files-private.git
+   ```
+
+2. Configure Git (if not already done)
+   ```bash
+   git config --global user.name "pi0system"
+   git config --global user.email "your-email@associated-with-gitea"
+   ```
+
+3. Copy Files
+   - Copy all exported files to the pi0system_files directory
+   - Ensure the chronological order is maintained
+
+4. Add and Commit Files
+   ```bash
+   # Add all files to git
+   git add .
+   
+   # Create initial commit
+   git commit -m "Initial import: Chronological files from March 1st 2025"
+   ```
+
+5. Push to Gitea
+   ```bash
+   # Push to main branch
+   git push -u origin main
+   ```
+
+TROUBLESHOOTING
+--------------
+- If push fails with "repository not found":
+  1. Ensure repository is created on Gitea.com first
+  2. Verify you have proper SSH access
+  3. Test connection: ssh -T git@gitea.com
+
+- If files are too large:
+  1. Use git lfs for large files
+  2. Push in smaller batches:
+     ```bash
+     git add . --batch=500
+     git commit -m "Batch import"
+     git push
+     ```
+
+VERIFICATION
+-----------
+After push, verify on Gitea.com:
+1. Navigate to: https://gitea.com/pi0system/All-files-private
+2. Check file count and dates
+3. Verify latest commit details
+
+For large file batches, you can split the push into multiple commits:
+```bash
+# For each batch of 500 files
+find . -type f -print0 | head -z -n 500 | xargs -0 git add
+git commit -m "Batch N of files"
+git push
+```
+
+Need help? Contact Gitea support or check docs at gitea.com/docs

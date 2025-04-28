@@ -1,0 +1,10 @@
+Pi0System Gitea Repository Information
+Generated: 2025-04-18 18:35:35
+=======================================
+
+Repository URL: gitea://pi0system.gitea.net/Pi0System/AstroPhysical
+SSH Access: git@pi0system.gitea.net:Pi0System/AstroPhysical.git
+HTTPS Access: https://pi0system.gitea.net/Pi0System/AstroPhysical.git
+
+Branch: main
+Last Commit: 2025-04-18 18:35:35

@@ -1,0 +1,556 @@
+Pi0System File Manifest
+========================
+Generated: 2025-04-18 17:27:39
+
+Files Available for Download:
+---------------------------
+
+File: Pi0System_4sight_Deployment_d00eb0ac.txt
+Size: 17.86 KB
+Created: 2025-04-13 22:58:42.733892
+Download URL: https://julius.ai/files?filename=Pi0System_4sight_Deployment_d00eb0ac.txt
+
+File: Pi0System_4sight_Deployment_d00eb0ac_v1_58e82b07.txt
+Size: 17.86 KB
+Created: 2025-04-18 15:25:20.145541
+Download URL: https://julius.ai/files?filename=Pi0System_4sight_Deployment_d00eb0ac_v1_58e82b07.txt
+
+File: Pi0System_4sight_Deployment_fbc27b83.txt
+Size: 10.31 KB
+Created: 2025-04-13 22:20:32.941964
+Download URL: https://julius.ai/files?filename=Pi0System_4sight_Deployment_fbc27b83.txt
+
+File: Pi0System_4sight_Deployment_fbc27b83_v1_b7041481.txt
+Size: 10.31 KB
+Created: 2025-04-18 15:25:20.342540
+Download URL: https://julius.ai/files?filename=Pi0System_4sight_Deployment_fbc27b83_v1_b7041481.txt
+
+File: Pi0System_Allpi0id_Extraction_20250418_161211.txt
+Size: 2.17 KB
+Created: 2025-04-18 16:12:11.701912
+Download URL: https://julius.ai/files?filename=Pi0System_Allpi0id_Extraction_20250418_161211.txt
+
+File: Pi0System_ArXiv_Harmonization_20250418_160106.txt
+Size: 0.86 KB
+Created: 2025-04-18 16:01:43.249948
+Download URL: https://julius.ai/files?filename=Pi0System_ArXiv_Harmonization_20250418_160106.txt
+
+File: Pi0System_Architecture_Integration_30f72db4.txt
+Size: 22.43 KB
+Created: 2025-04-14 20:04:22.375654
+Download URL: https://julius.ai/files?filename=Pi0System_Architecture_Integration_30f72db4.txt
+
+File: Pi0System_Architecture_Integration_30f72db4_v1_aaa07671.txt
+Size: 22.43 KB
+Created: 2025-04-18 15:25:20.542540
+Download URL: https://julius.ai/files?filename=Pi0System_Architecture_Integration_30f72db4_v1_aaa07671.txt
+
+File: Pi0System_Architecture_Update_Deployment_5e087112.txt
+Size: 4.92 KB
+Created: 2025-04-14 20:17:06.421979
+Download URL: https://julius.ai/files?filename=Pi0System_Architecture_Update_Deployment_5e087112.txt
+
+File: Pi0System_Architecture_Update_Deployment_5e087112_v1_52315d48.txt
+Size: 4.92 KB
+Created: 2025-04-18 15:25:21.045539
+Download URL: https://julius.ai/files?filename=Pi0System_Architecture_Update_Deployment_5e087112_v1_52315d48.txt
+
+File: Pi0System_Autonomous_Verification_072c786b.txt
+Size: 4.15 KB
+Created: 2025-04-14 20:43:25.977481
+Download URL: https://julius.ai/files?filename=Pi0System_Autonomous_Verification_072c786b.txt
+
+File: Pi0System_Autonomous_Verification_072c786b_v1_9bc84b41.txt
+Size: 4.15 KB
+Created: 2025-04-18 15:25:21.239539
+Download URL: https://julius.ai/files?filename=Pi0System_Autonomous_Verification_072c786b_v1_9bc84b41.txt
+
+File: Pi0System_Command_Structure.txt
+Size: 2.68 KB
+Created: 2025-04-17 17:41:21.330629
+Download URL: https://julius.ai/files?filename=Pi0System_Command_Structure.txt
+
+File: Pi0System_Command_Structure_v1_c427d7d6.txt
+Size: 2.68 KB
+Created: 2025-04-18 15:25:21.439538
+Download URL: https://julius.ai/files?filename=Pi0System_Command_Structure_v1_c427d7d6.txt
+
+File: Pi0System_Communication_Framework_e68c1234.txt
+Size: 6.25 KB
+Created: 2025-04-13 08:05:53.741370
+Download URL: https://julius.ai/files?filename=Pi0System_Communication_Framework_e68c1234.txt
+
+File: Pi0System_Communication_Framework_e68c1234_v1_ae387130.txt
+Size: 6.25 KB
+Created: 2025-04-18 15:25:21.970538
+Download URL: https://julius.ai/files?filename=Pi0System_Communication_Framework_e68c1234_v1_ae387130.txt
+
+File: Pi0System_CompleteReport_20250417_135212_062f8f94.txt
+Size: 3.76 KB
+Created: 2025-04-17 13:52:12.497630
+Download URL: https://julius.ai/files?filename=Pi0System_CompleteReport_20250417_135212_062f8f94.txt
+
+File: Pi0System_CompleteReport_20250417_135212_062f8f94_v1_8740a555.txt
+Size: 3.76 KB
+Created: 2025-04-18 15:25:22.182537
+Download URL: https://julius.ai/files?filename=Pi0System_CompleteReport_20250417_135212_062f8f94_v1_8740a555.txt
+
+File: Pi0System_Comprehensive_Findings_4471569d.txt
+Size: 18.94 KB
+Created: 2025-04-14 06:20:08.055295
+Download URL: https://julius.ai/files?filename=Pi0System_Comprehensive_Findings_4471569d.txt
+
+File: Pi0System_Comprehensive_Findings_4471569d_v1_c7a2343b.txt
+Size: 18.94 KB
+Created: 2025-04-18 15:25:22.355537
+Download URL: https://julius.ai/files?filename=Pi0System_Comprehensive_Findings_4471569d_v1_c7a2343b.txt
+
+File: Pi0System_Comprehensive_Glossary_29882e0d.txt
+Size: 18.30 KB
+Created: 2025-04-13 21:53:52.029411
+Download URL: https://julius.ai/files?filename=Pi0System_Comprehensive_Glossary_29882e0d.txt
+
+File: Pi0System_Comprehensive_Glossary_29882e0d_v1_e5fc6f35.txt
+Size: 18.30 KB
+Created: 2025-04-18 15:25:22.789536
+Download URL: https://julius.ai/files?filename=Pi0System_Comprehensive_Glossary_29882e0d_v1_e5fc6f35.txt
+
+File: Pi0System_Comprehensive_Integration_Report_e026d80b.txt
+Size: 4.51 KB
+Created: 2025-04-15 00:28:30.893670
+Download URL: https://julius.ai/files?filename=Pi0System_Comprehensive_Integration_Report_e026d80b.txt
+
+File: Pi0System_Comprehensive_Integration_Report_e026d80b_v1_81827347.txt
+Size: 4.51 KB
+Created: 2025-04-18 15:25:23.002536
+Download URL: https://julius.ai/files?filename=Pi0System_Comprehensive_Integration_Report_e026d80b_v1_81827347.txt
+
+File: Pi0System_Cross_Platform_Architecture_Deployment_71b52f37.txt
+Size: 1.75 KB
+Created: 2025-04-14 20:13:50.816152
+Download URL: https://julius.ai/files?filename=Pi0System_Cross_Platform_Architecture_Deployment_71b52f37.txt
+
+File: Pi0System_Cross_Platform_Architecture_Deployment_71b52f37_v1_b145deaa.txt
+Size: 1.75 KB
+Created: 2025-04-18 15:25:23.205536
+Download URL: https://julius.ai/files?filename=Pi0System_Cross_Platform_Architecture_Deployment_71b52f37_v1_b145deaa.txt
+
+File: Pi0System_Cross_Platform_Software_Package_8ddeac5e.txt
+Size: 15.18 KB
+Created: 2025-04-14 19:54:01.928202
+Download URL: https://julius.ai/files?filename=Pi0System_Cross_Platform_Software_Package_8ddeac5e.txt
+
+File: Pi0System_Cross_Platform_Software_Package_8ddeac5e_v1_aa4d3607.txt
+Size: 15.18 KB
+Created: 2025-04-18 15:25:23.572535
+Download URL: https://julius.ai/files?filename=Pi0System_Cross_Platform_Software_Package_8ddeac5e_v1_aa4d3607.txt
+
+File: Pi0System_DarkSector_Analysis_20250417_133635_66b31f2d.txt
+Size: 0.50 KB
+Created: 2025-04-17 13:36:36.287438
+Download URL: https://julius.ai/files?filename=Pi0System_DarkSector_Analysis_20250417_133635_66b31f2d.txt
+
+File: Pi0System_DarkSector_Analysis_20250417_133635_66b31f2d_v1_04ee5b63.txt
+Size: 0.50 KB
+Created: 2025-04-18 15:25:23.780535
+Download URL: https://julius.ai/files?filename=Pi0System_DarkSector_Analysis_20250417_133635_66b31f2d_v1_04ee5b63.txt
+
+File: Pi0System_DarkSector_Comprehensive_20250417_134751_e21a0c04.txt
+Size: 3.32 KB
+Created: 2025-04-17 13:47:54.372322
+Download URL: https://julius.ai/files?filename=Pi0System_DarkSector_Comprehensive_20250417_134751_e21a0c04.txt
+
+File: Pi0System_DarkSector_Comprehensive_20250417_134751_e21a0c04_v1_22ca06db.txt
+Size: 3.32 KB
+Created: 2025-04-18 15:25:23.968534
+Download URL: https://julius.ai/files?filename=Pi0System_DarkSector_Comprehensive_20250417_134751_e21a0c04_v1_22ca06db.txt
+
+File: Pi0System_Deployment_Log_33823ed4.txt
+Size: 13.21 KB
+Created: 2025-04-14 06:32:10.432370
+Download URL: https://julius.ai/files?filename=Pi0System_Deployment_Log_33823ed4.txt
+
+File: Pi0System_Deployment_Log_33823ed4_v1_5c1e1d36.txt
+Size: 13.21 KB
+Created: 2025-04-18 15:25:24.435534
+Download URL: https://julius.ai/files?filename=Pi0System_Deployment_Log_33823ed4_v1_5c1e1d36.txt
+
+File: Pi0System_Detailed_Benchmark_Report_9d7587f6.txt
+Size: 6.83 KB
+Created: 2025-04-13 23:02:29.634686
+Download URL: https://julius.ai/files?filename=Pi0System_Detailed_Benchmark_Report_9d7587f6.txt
+
+File: Pi0System_Detailed_Benchmark_Report_9d7587f6_v1_69fef925.txt
+Size: 6.83 KB
+Created: 2025-04-18 15:25:24.635533
+Download URL: https://julius.ai/files?filename=Pi0System_Detailed_Benchmark_Report_9d7587f6_v1_69fef925.txt
+
+File: Pi0System_EmQpi0n_Deployment_2cdd723a.txt
+Size: 6.44 KB
+Created: 2025-04-13 21:13:15.239614
+Download URL: https://julius.ai/files?filename=Pi0System_EmQpi0n_Deployment_2cdd723a.txt
+
+File: Pi0System_EmQpi0n_Deployment_2cdd723a_v1_2f003f61.txt
+Size: 6.44 KB
+Created: 2025-04-18 15:25:24.860533
+Download URL: https://julius.ai/files?filename=Pi0System_EmQpi0n_Deployment_2cdd723a_v1_2f003f61.txt
+
+File: Pi0System_Extreme_TimeSpace_Integration_08dd41de.txt
+Size: 14.00 KB
+Created: 2025-04-13 09:40:07.190260
+Download URL: https://julius.ai/files?filename=Pi0System_Extreme_TimeSpace_Integration_08dd41de.txt
+
+File: Pi0System_Extreme_TimeSpace_Integration_08dd41de_v1_72caa0b7.txt
+Size: 14.00 KB
+Created: 2025-04-18 15:25:25.256221
+Download URL: https://julius.ai/files?filename=Pi0System_Extreme_TimeSpace_Integration_08dd41de_v1_72caa0b7.txt
+
+File: Pi0System_Gitea_Export_Framework_20250418_154941.txt
+Size: 371.10 KB
+Created: 2025-04-18 15:50:06.736320
+Download URL: https://julius.ai/files?filename=Pi0System_Gitea_Export_Framework_20250418_154941.txt
+
+File: Pi0System_Gitea_Implementation_20250418_145848.txt
+Size: 3.04 KB
+Created: 2025-04-18 14:58:49.182159
+Download URL: https://julius.ai/files?filename=Pi0System_Gitea_Implementation_20250418_145848.txt
+
+File: Pi0System_Gitea_Implementation_20250418_145848_v1_9f1e4677.txt
+Size: 3.04 KB
+Created: 2025-04-18 15:25:25.389532
+Download URL: https://julius.ai/files?filename=Pi0System_Gitea_Implementation_20250418_145848_v1_9f1e4677.txt
+
+File: Pi0System_Gitea_Integration_20250418_151617.txt
+Size: 2.55 KB
+Created: 2025-04-18 15:16:18.473432
+Download URL: https://julius.ai/files?filename=Pi0System_Gitea_Integration_20250418_151617.txt
+
+File: Pi0System_Gitea_Integration_20250418_151617_v1_c168429a.txt
+Size: 2.55 KB
+Created: 2025-04-18 15:25:25.528532
+Download URL: https://julius.ai/files?filename=Pi0System_Gitea_Integration_20250418_151617_v1_c168429a.txt
+
+File: Pi0System_H2zeroh2snowCubes_Integration_910b5f92.txt
+Size: 8.92 KB
+Created: 2025-04-13 21:38:50.033226
+Download URL: https://julius.ai/files?filename=Pi0System_H2zeroh2snowCubes_Integration_910b5f92.txt
+
+File: Pi0System_H2zeroh2snowCubes_Integration_910b5f92_v1_c5835b1c.txt
+Size: 8.92 KB
+Created: 2025-04-18 15:25:25.992531
+Download URL: https://julius.ai/files?filename=Pi0System_H2zeroh2snowCubes_Integration_910b5f92_v1_c5835b1c.txt
+
+File: Pi0System_Implementation_Report_36f5306f.txt
+Size: 4.43 KB
+Created: 2025-04-14 03:47:25.307226
+Download URL: https://julius.ai/files?filename=Pi0System_Implementation_Report_36f5306f.txt
+
+File: Pi0System_Implementation_Report_36f5306f_v1_b99f3773.txt
+Size: 4.43 KB
+Created: 2025-04-18 15:25:26.192531
+Download URL: https://julius.ai/files?filename=Pi0System_Implementation_Report_36f5306f_v1_b99f3773.txt
+
+File: Pi0System_Integration_0e3f6035_20250413.txt
+Size: 5.15 KB
+Created: 2025-04-13 06:55:47.991644
+Download URL: https://julius.ai/files?filename=Pi0System_Integration_0e3f6035_20250413.txt
+
+File: Pi0System_Integration_0e3f6035_20250413_v1_70c8718b.txt
+Size: 5.15 KB
+Created: 2025-04-18 15:25:26.387530
+Download URL: https://julius.ai/files?filename=Pi0System_Integration_0e3f6035_20250413_v1_70c8718b.txt
+
+File: Pi0System_Integration_Findings_1feb3208.txt
+Size: 5.32 KB
+Created: 2025-04-13 22:13:15.715360
+Download URL: https://julius.ai/files?filename=Pi0System_Integration_Findings_1feb3208.txt
+
+File: Pi0System_Integration_Findings_1feb3208_v1_5c5183e0.txt
+Size: 5.32 KB
+Created: 2025-04-18 15:25:26.886530
+Download URL: https://julius.ai/files?filename=Pi0System_Integration_Findings_1feb3208_v1_5c5183e0.txt
+
+File: Pi0System_Integration_Report.txt
+Size: 3.05 KB
+Created: 2025-04-13 17:54:38.727693
+Download URL: https://julius.ai/files?filename=Pi0System_Integration_Report.txt
+
+File: Pi0System_Integration_Report_5633e0b3.txt
+Size: 2.29 KB
+Created: 2025-04-13 08:34:20.378826
+Download URL: https://julius.ai/files?filename=Pi0System_Integration_Report_5633e0b3.txt
+
+File: Pi0System_Integration_Report_5633e0b3_v1_3499952f.txt
+Size: 2.29 KB
+Created: 2025-04-18 15:25:27.308529
+Download URL: https://julius.ai/files?filename=Pi0System_Integration_Report_5633e0b3_v1_3499952f.txt
+
+File: Pi0System_Integration_Report_v1_01d3d20b.txt
+Size: 3.05 KB
+Created: 2025-04-18 15:25:27.105529
+Download URL: https://julius.ai/files?filename=Pi0System_Integration_Report_v1_01d3d20b.txt
+
+File: Pi0System_Integration_Results_459b41ef.txt
+Size: 1.90 KB
+Created: 2025-04-13 07:57:41.687815
+Download URL: https://julius.ai/files?filename=Pi0System_Integration_Results_459b41ef.txt
+
+File: Pi0System_Integration_Results_459b41ef_v1_2e5675ba.txt
+Size: 1.90 KB
+Created: 2025-04-18 15:25:27.683528
+Download URL: https://julius.ai/files?filename=Pi0System_Integration_Results_459b41ef_v1_2e5675ba.txt
+
+File: Pi0System_Key_Findings_Report_8c3935b7.txt
+Size: 6.68 KB
+Created: 2025-04-14 03:53:01.830924
+Download URL: https://julius.ai/files?filename=Pi0System_Key_Findings_Report_8c3935b7.txt
+
+File: Pi0System_Key_Findings_Report_8c3935b7_v1_632c4082.txt
+Size: 6.68 KB
+Created: 2025-04-18 15:25:27.881528
+Download URL: https://julius.ai/files?filename=Pi0System_Key_Findings_Report_8c3935b7_v1_632c4082.txt
+
+File: Pi0System_M0pi0_Enhancement_Report_39986c6c.txt
+Size: 8.84 KB
+Created: 2025-04-14 04:00:17.053535
+Download URL: https://julius.ai/files?filename=Pi0System_M0pi0_Enhancement_Report_39986c6c.txt
+
+File: Pi0System_M0pi0_Enhancement_Report_39986c6c_v1_31e421d3.txt
+Size: 8.84 KB
+Created: 2025-04-18 15:25:28.085528
+Download URL: https://julius.ai/files?filename=Pi0System_M0pi0_Enhancement_Report_39986c6c_v1_31e421d3.txt
+
+File: Pi0System_M0pi0_HoloPi0_Update_Report_aecd92c3.txt
+Size: 11.54 KB
+Created: 2025-04-13 23:24:33.914288
+Download URL: https://julius.ai/files?filename=Pi0System_M0pi0_HoloPi0_Update_Report_aecd92c3.txt
+
+File: Pi0System_M0pi0_HoloPi0_Update_Report_aecd92c3_v1_15c874c3.txt
+Size: 11.54 KB
+Created: 2025-04-18 15:25:28.603527
+Download URL: https://julius.ai/files?filename=Pi0System_M0pi0_HoloPi0_Update_Report_aecd92c3_v1_15c874c3.txt
+
+File: Pi0System_Market_Investigation_8289e465.txt
+Size: 8.28 KB
+Created: 2025-04-13 08:17:05.415762
+Download URL: https://julius.ai/files?filename=Pi0System_Market_Investigation_8289e465.txt
+
+File: Pi0System_Market_Investigation_8289e465_v1_d61e2ca2.txt
+Size: 8.28 KB
+Created: 2025-04-18 15:25:28.774527
+Download URL: https://julius.ai/files?filename=Pi0System_Market_Investigation_8289e465_v1_d61e2ca2.txt
+
+File: Pi0System_Modules_Update_Report_1d7a6d2f.txt
+Size: 3.71 KB
+Created: 2025-04-13 23:20:49.498489
+Download URL: https://julius.ai/files?filename=Pi0System_Modules_Update_Report_1d7a6d2f.txt
+
+File: Pi0System_Modules_Update_Report_1d7a6d2f_v1_0b9a50ea.txt
+Size: 3.71 KB
+Created: 2025-04-18 15:25:28.976526
+Download URL: https://julius.ai/files?filename=Pi0System_Modules_Update_Report_1d7a6d2f_v1_0b9a50ea.txt
+
+File: Pi0System_Multidimensional_Integration_Report.txt
+Size: 4.99 KB
+Created: 2025-04-13 17:58:14.555503
+Download URL: https://julius.ai/files?filename=Pi0System_Multidimensional_Integration_Report.txt
+
+File: Pi0System_Multidimensional_Integration_Report_v1_30b3beef.txt
+Size: 4.99 KB
+Created: 2025-04-18 15:25:29.466525
+Download URL: https://julius.ai/files?filename=Pi0System_Multidimensional_Integration_Report_v1_30b3beef.txt
+
+File: Pi0System_Nomenclature_Integration_dcd1aefc.txt
+Size: 0.81 KB
+Created: 2025-04-15 03:17:27.201715
+Download URL: https://julius.ai/files?filename=Pi0System_Nomenclature_Integration_dcd1aefc.txt
+
+File: Pi0System_Nomenclature_Integration_dcd1aefc_v1_1950d910.txt
+Size: 0.81 KB
+Created: 2025-04-18 15:25:29.703525
+Download URL: https://julius.ai/files?filename=Pi0System_Nomenclature_Integration_dcd1aefc_v1_1950d910.txt
+
+File: Pi0System_PhaseTransition_Integration_Report_b21582b6.txt
+Size: 2.74 KB
+Created: 2025-04-13 17:45:05.107199
+Download URL: https://julius.ai/files?filename=Pi0System_PhaseTransition_Integration_Report_b21582b6.txt
+
+File: Pi0System_PhaseTransition_Integration_Report_b21582b6_v1_ff9eb494.txt
+Size: 2.74 KB
+Created: 2025-04-18 15:25:29.915525
+Download URL: https://julius.ai/files?filename=Pi0System_PhaseTransition_Integration_Report_b21582b6_v1_ff9eb494.txt
+
+File: Pi0System_PhaseTransition_Report_PI092240281.txt
+Size: 3.47 KB
+Created: 2025-04-13 17:53:31.151360
+Download URL: https://julius.ai/files?filename=Pi0System_PhaseTransition_Report_PI092240281.txt
+
+File: Pi0System_PhaseTransition_Report_PI092240281_v1_035839d0.txt
+Size: 3.47 KB
+Created: 2025-04-18 15:25:30.439524
+Download URL: https://julius.ai/files?filename=Pi0System_PhaseTransition_Report_PI092240281_v1_035839d0.txt
+
+File: Pi0System_QuantSolo_Enhancement_Report_ab13688c.txt
+Size: 13.86 KB
+Created: 2025-04-14 04:12:35.727936
+Download URL: https://julius.ai/files?filename=Pi0System_QuantSolo_Enhancement_Report_ab13688c.txt
+
+File: Pi0System_QuantSolo_Enhancement_Report_ab13688c_v1_732f1340.txt
+Size: 13.86 KB
+Created: 2025-04-18 15:25:30.656523
+Download URL: https://julius.ai/files?filename=Pi0System_QuantSolo_Enhancement_Report_ab13688c_v1_732f1340.txt
+
+File: Pi0System_QuantumRemote_Integration_7855a837.txt
+Size: 14.48 KB
+Created: 2025-04-13 09:45:14.185982
+Download URL: https://julius.ai/files?filename=Pi0System_QuantumRemote_Integration_7855a837.txt
+
+File: Pi0System_QuantumRemote_Integration_7855a837_v1_9885655f.txt
+Size: 14.48 KB
+Created: 2025-04-18 15:25:30.851523
+Download URL: https://julius.ai/files?filename=Pi0System_QuantumRemote_Integration_7855a837_v1_9885655f.txt
+
+File: Pi0System_QuantumRemote_Server_Qpi0n_Report_f37539ff.txt
+Size: 9.37 KB
+Created: 2025-04-13 23:07:56.115391
+Download URL: https://julius.ai/files?filename=Pi0System_QuantumRemote_Server_Qpi0n_Report_f37539ff.txt
+
+File: Pi0System_QuantumRemote_Server_Qpi0n_Report_f37539ff_v1_924e3faf.txt
+Size: 9.37 KB
+Created: 2025-04-18 15:25:31.294522
+Download URL: https://julius.ai/files?filename=Pi0System_QuantumRemote_Server_Qpi0n_Report_f37539ff_v1_924e3faf.txt
+
+File: Pi0System_Regulatory_and_Evolution_Report_185714f7.txt
+Size: 3.42 KB
+Created: 2025-04-13 08:45:37.188217
+Download URL: https://julius.ai/files?filename=Pi0System_Regulatory_and_Evolution_Report_185714f7.txt
+
+File: Pi0System_Regulatory_and_Evolution_Report_185714f7_v1_68d59545.txt
+Size: 3.42 KB
+Created: 2025-04-18 15:25:31.518522
+Download URL: https://julius.ai/files?filename=Pi0System_Regulatory_and_Evolution_Report_185714f7_v1_68d59545.txt
+
+File: Pi0System_SDISM_Integration_50ca1f15.txt
+Size: 14.94 KB
+Created: 2025-04-13 22:02:39.338936
+Download URL: https://julius.ai/files?filename=Pi0System_SDISM_Integration_50ca1f15.txt
+
+File: Pi0System_SDISM_Integration_50ca1f15_v1_ffa5022b.txt
+Size: 14.94 KB
+Created: 2025-04-18 15:25:31.729522
+Download URL: https://julius.ai/files?filename=Pi0System_SDISM_Integration_50ca1f15_v1_ffa5022b.txt
+
+File: Pi0System_Simulation_Report_89e144f6.txt
+Size: 5.26 KB
+Created: 2025-04-14 06:10:00.223784
+Download URL: https://julius.ai/files?filename=Pi0System_Simulation_Report_89e144f6.txt
+
+File: Pi0System_Simulation_Report_89e144f6_v1_d5db4fe3.txt
+Size: 5.26 KB
+Created: 2025-04-18 15:25:32.138521
+Download URL: https://julius.ai/files?filename=Pi0System_Simulation_Report_89e144f6_v1_d5db4fe3.txt
+
+File: Pi0System_Spec_Benchmark_Report_96faf2f6.txt
+Size: 9.32 KB
+Created: 2025-04-13 22:49:14.436406
+Download URL: https://julius.ai/files?filename=Pi0System_Spec_Benchmark_Report_96faf2f6.txt
+
+File: Pi0System_Spec_Benchmark_Report_96faf2f6_v1_b8001c13.txt
+Size: 9.32 KB
+Created: 2025-04-18 15:25:32.390521
+Download URL: https://julius.ai/files?filename=Pi0System_Spec_Benchmark_Report_96faf2f6_v1_b8001c13.txt
+
+File: Pi0System_Specification_Financial_Report_39393e42.txt
+Size: 14.16 KB
+Created: 2025-04-13 22:28:47.131541
+Download URL: https://julius.ai/files?filename=Pi0System_Specification_Financial_Report_39393e42.txt
+
+File: Pi0System_Specification_Financial_Report_39393e42_v1_c5f342f5.txt
+Size: 14.16 KB
+Created: 2025-04-18 15:25:32.661520
+Download URL: https://julius.ai/files?filename=Pi0System_Specification_Financial_Report_39393e42_v1_c5f342f5.txt
+
+File: Pi0System_Technical_Specification_3e549f3c.txt
+Size: 13.62 KB
+Created: 2025-04-14 20:20:40.435790
+Download URL: https://julius.ai/files?filename=Pi0System_Technical_Specification_3e549f3c.txt
+
+File: Pi0System_Technical_Specification_3e549f3c_v1_18d6a7ea.txt
+Size: 13.62 KB
+Created: 2025-04-18 15:25:33.156519
+Download URL: https://julius.ai/files?filename=Pi0System_Technical_Specification_3e549f3c_v1_18d6a7ea.txt
+
+File: Pi0System_Unification_Verification_a0d97296.txt
+Size: 3.23 KB
+Created: 2025-04-14 20:28:17.024387
+Download URL: https://julius.ai/files?filename=Pi0System_Unification_Verification_a0d97296.txt
+
+File: Pi0System_Unification_Verification_a0d97296_v1_7b5b6aa9.txt
+Size: 3.23 KB
+Created: 2025-04-18 15:25:33.377519
+Download URL: https://julius.ai/files?filename=Pi0System_Unification_Verification_a0d97296_v1_7b5b6aa9.txt
+
+File: Pi0System_UniversalMap_Operators_20250417_140008_ca7648af.txt
+Size: 3.05 KB
+Created: 2025-04-17 14:00:09.301113
+Download URL: https://julius.ai/files?filename=Pi0System_UniversalMap_Operators_20250417_140008_ca7648af.txt
+
+File: Pi0System_UniversalMap_Operators_20250417_140008_ca7648af_v1_74bf7d2e.txt
+Size: 3.05 KB
+Created: 2025-04-18 15:25:33.580518
+Download URL: https://julius.ai/files?filename=Pi0System_UniversalMap_Operators_20250417_140008_ca7648af_v1_74bf7d2e.txt
+
+File: Pi0System_Update_Deployment_5ce6dc11.txt
+Size: 5.28 KB
+Created: 2025-04-14 20:24:13.997602
+Download URL: https://julius.ai/files?filename=Pi0System_Update_Deployment_5ce6dc11.txt
+
+File: Pi0System_Update_Deployment_5ce6dc11_v1_378f7fb0.txt
+Size: 5.28 KB
+Created: 2025-04-18 15:25:34.081518
+Download URL: https://julius.ai/files?filename=Pi0System_Update_Deployment_5ce6dc11_v1_378f7fb0.txt
+
+File: Pi0System_Update_State_Report_62749836.txt
+Size: 5.21 KB
+Created: 2025-04-13 10:17:23.285237
+Download URL: https://julius.ai/files?filename=Pi0System_Update_State_Report_62749836.txt
+
+File: Pi0System_Update_State_Report_62749836_v1_cd84a4b9.txt
+Size: 5.21 KB
+Created: 2025-04-18 15:25:34.454517
+Download URL: https://julius.ai/files?filename=Pi0System_Update_State_Report_62749836_v1_cd84a4b9.txt
+
+File: Pi0System_Upgrade_Report_fc644982.txt
+Size: 2.50 KB
+Created: 2025-04-14 03:44:59.954357
+Download URL: https://julius.ai/files?filename=Pi0System_Upgrade_Report_fc644982.txt
+
+File: Pi0System_Upgrade_Report_fc644982_v1_f8ee385b.txt
+Size: 2.50 KB
+Created: 2025-04-18 15:25:34.644517
+Download URL: https://julius.ai/files?filename=Pi0System_Upgrade_Report_fc644982_v1_f8ee385b.txt
+
+File: Pi0System_Validation_Report_41ee5672.txt
+Size: 13.25 KB
+Created: 2025-04-14 05:56:55.653258
+Download URL: https://julius.ai/files?filename=Pi0System_Validation_Report_41ee5672.txt
+
+File: Pi0System_Validation_Report_41ee5672_v1_401be217.txt
+Size: 13.25 KB
+Created: 2025-04-18 15:25:35.172516
+Download URL: https://julius.ai/files?filename=Pi0System_Validation_Report_41ee5672_v1_401be217.txt
+
+File: Pi0System_Verification_Report_3963f8fa.txt
+Size: 3.99 KB
+Created: 2025-04-14 03:50:10.251797
+Download URL: https://julius.ai/files?filename=Pi0System_Verification_Report_3963f8fa.txt
+
+File: Pi0System_Verification_Report_3963f8fa_v1_0128eff8.txt
+Size: 3.99 KB
+Created: 2025-04-18 15:25:35.389516
+Download URL: https://julius.ai/files?filename=Pi0System_Verification_Report_3963f8fa_v1_0128eff8.txt
+
+File: Pi0System_arXiv_Analysis_20250418_160653.txt
+Size: 7.00 KB
+Created: 2025-04-18 16:08:17.517298
+Download URL: https://julius.ai/files?filename=Pi0System_arXiv_Analysis_20250418_160653.txt

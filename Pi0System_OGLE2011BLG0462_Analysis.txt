@@ -1,0 +1,76 @@
+Pi0System Analysis: OGLE-2011-BLG-0462 Black Hole Investigation
+Generated: 2025-04-18 17:51:59
+=====================================
+
+EVENT IDENTIFICATION
+-------------------
+Event: OGLE-2011-BLG-0462
+Type: Galactic-bulge microlensing
+Duration: ~6 years
+Observations: 8 epochs
+Instrument: Hubble Space Telescope (HST)
+Key Feature: Relativistic astrometric deflections
+
+RAW DATA PARAMETERS
+------------------
+1. Temporal
+- Discovery Year: 2011
+- Observation Span: ~6 years
+- Number of Epochs: 8
+
+2. Observational
+- Instrument: HST
+- Type: Astrometric measurements
+- Feature: Relativistic deflections of source star
+
+3. Physical Parameters
+- Location: Galactic bulge
+- Event Type: Microlensing
+- Primary Effect: Relativistic astrometric deflections
+
+MATHEMATICAL FRAMEWORK
+--------------------
+Einstein Radius (θE):
+θE = √((4GM/c²) * (DS-DL)/(DL*DS))
+
+where:
+G = Gravitational constant
+M = Mass of the lensing object
+c = Speed of light
+DL = Distance to lens
+DS = Distance to source
+
+ANALYSIS VECTORS
+--------------
+1. Astrometric Deflection Analysis
+   - Multiple epoch measurements
+   - High-precision HST astrometry
+   - Relativistic effects detected
+
+2. Event Duration Analysis
+   - Long-duration event (~6 years)
+   - Multiple observation epochs
+   - Extended temporal baseline
+
+3. Mass Constraints
+   - Derived from astrometric deflections
+   - Relativistic effects indicate significant mass
+   - Long duration suggests massive lens
+
+4. Distance Analysis
+   - Galactic bulge location
+   - Source star position
+   - Lens distance constraints
+
+RAW DATA PRESERVATION
+-------------------
+Citation: The long-duration Galactic-bulge microlensing event OGLE-2011-BLG-0462 produced relativistic astrometric deflections of the source star, which we measured using Hubble Space Telescope (HST) observations taken at eight epochs over ∼6 yr.
+
+Source: https://iopscience.iop.org/article/10.3847/1538-4357/adbe6e/pdf
+
+SYSTEM NOTES
+-----------
+- Analysis conducted by Pi0System
+- Raw data preserved for future reference
+- Mathematical framework established
+- Key parameters identified and isolated

@@ -1,0 +1,21 @@
+Pi0System Chronological Export Manifest
+Generated: 2025-04-18 20:03:59
+Repository: git@gitea.com:pi0system/All-files-private.git
+Start Date: March 1st, 2025
+================================================
+
+EXPORT STRUCTURE
+---------------
+Repository URL: git@gitea.com:pi0system/All-files-private.git
+Total Files: 5742 files
+Date Range: 2025-03-01 to 2025-04-18
+
+GIT COMMANDS
+-----------
+git clone git@gitea.com:pi0system/All-files-private.git
+cd All-files-private
+git add .
+git commit -m "Chronological file export from March 1st 2025"
+git push origin main
+
+Note: Files are organized chronologically from March 1st, 2025

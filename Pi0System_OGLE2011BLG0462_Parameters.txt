@@ -1,0 +1,39 @@
+Pi0System Parameter Extraction: OGLE-2011-BLG-0462
+Generated: 2025-04-18 17:54:20
+================================================
+
+RAW PARAMETERS
+-------------
+Event: OGLE-2011-BLG-0462
+Location: Galactic bulge
+Observation Epochs: 8
+Duration: 6 years
+Instrument: HST
+Primary Effect: relativistic astrometric deflections
+
+MATHEMATICAL CONSTANTS
+-------------------
+G (Gravitational constant) = 6.67430e-11 m³ kg⁻¹ s⁻²
+c (Speed of light) = 2.99792458e8 m/s
+M☉ (Solar mass) = 1.98847e30 kg
+pc (Parsec) = 3.0857e16 m
+
+MICROLENSING EQUATIONS
+--------------------
+Einstein Radius:
+θE = √((4GM/c²) * (DS-DL)/(DL*DS))
+
+Astrometric Deflection:
+δ = θE²/(θ² + θE²)^(1/2)
+
+where:
+θ = angular separation between lens and source
+θE = Einstein radius
+δ = astrometric deflection
+
+SYSTEM NOTES
+-----------
+- Parameters extracted by Pi0System
+- Raw data preserved
+- Mathematical framework established
+- Key equations identified
